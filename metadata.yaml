@@ -1,0 +1,5 @@
+homepage: "https://statisztika.promnet.hu/"
+documentation: "https://github.com/csiber/promnet-statisztika-gtm#readme"
+versions:
+  - sha: 95ab9cfe946194bc5d7cd30979bd5d0fc6ba37b8
+    changeNotes: Initial release.
